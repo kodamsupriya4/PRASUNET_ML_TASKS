@@ -5,6 +5,7 @@ Below are the details for each project along with the dataset links.
 
 ->Project 1: House Price Prediction Using Linear Regression
 Description
+
 This project implements a linear regression model to predict house prices based on their square footage and the number of bedrooms and bathrooms.
 
 Dataset
@@ -13,6 +14,7 @@ File: London.csv
 
 ->Project 2: Customer Segmentation Using K-Means Clustering
 Description
+
 This project applies K-Means clustering to segment customers based on their purchasing behavior and other characteristics.
 
 Dataset
@@ -21,6 +23,7 @@ File: Mall_Customers.csv
 
 ->Project 3: Cat and Dog Image Classification Using SVM
 Description
+
 This project utilizes a Support Vector Machine (SVM) to classify images of cats and dogs.
 
 Dataset
@@ -29,6 +32,7 @@ Folder Structure: Contains train and test folders with images of cats and dogs.
 
 Project 4: Hand Gesture Recognition Using CNN
 Description
+
 This project develops a Convolutional Neural Network (CNN) to recognize and classify different hand gestures from image data.
 
 Dataset
